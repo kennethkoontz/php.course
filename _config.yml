@@ -10,7 +10,7 @@ title:            'Geekwise Academy - PHP'
 tagline:          'Ken Koontz'
 description:      'Geekwise Academy PHP introductory course.'
 url:              http://lanyon.getpoole.com
-baseurl:          '/'
+baseurl:          http://kennethkoontz.github.io/php.course/
 paginate:         5
 
 author:
