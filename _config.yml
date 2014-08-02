@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            'Geekwise Academy - PHP'
+title:            'Geekwise PHP'
 tagline:          'Ken Koontz'
 description:      'Geekwise Academy PHP introductory course.'
 url:              http://lanyon.getpoole.com
