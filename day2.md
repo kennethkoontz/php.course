@@ -283,8 +283,7 @@ select_website('wikipedia');
 
 > Note that if a `case` block is selected **and** you don't use a `break` in the selected `case` block. The code will execute in every subsequent `case` and `default` block until it exists the switch statement or encounters a `break` statement. This is known as *switch fall through*.
 
-[Example](http://codepad.org/zeQstQu9)
-
+####[Example](http://codepad.org/zeQstQu9)
 {% highlight php %}
 <?php
 function select_website($website) {
@@ -304,3 +303,24 @@ function select_website($website) {
 select_website('twitter');
 ?>
 {% endhighlight %}
+
+### Looping Statements
+Looping statements provide a way rerun a block of code and iterate over data types such as an array.
+
+#### While Statement
+A `while` statement will loop a block a code until a condition is `true`.
+
+####[Example](http://codepad.org/O5h6FHd4)
+{% highlight php %}
+<?php
+$i = 0;
+
+while($i < 10) {
+	++$i;
+	echo $i;
+}
+?>
+{% endhighlight %}
+
+Exercise
+1. Create a function that prints n n-times. The function takes one an argument, an integer. The integer represents the number of times to print itself. [solution](http://codepad.org/JtyVhrue)
