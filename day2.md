@@ -33,7 +33,7 @@ echo $y % $z."\n";
 * Division `/=`
 * Modulus `%=`
 
-###[Example](http://codepad.org/lB8QvTUf)
+####[Example](http://codepad.org/lB8QvTUf)
 
 {% highlight php %}
 <?php
@@ -61,7 +61,7 @@ echo $x."\n"; // 1
 * Concatenation `.`
 * Concatenation Assignment `.=`
 
-###[Example](http://codepad.org/6hiIDJ9H)
+####[Example](http://codepad.org/6hiIDJ9H)
 {% highlight php %}
 <?php
 $foo = "Hello";
