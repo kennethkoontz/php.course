@@ -232,6 +232,7 @@ if ($name == 'Harry') {
 {% endhighlight %}
 
 Exercises
+
 1. Create a function that takes a string and checks the length. If the length is larger than 4 characters echo "too large". [solution](http://codepad.org/3IeJYdA1)
 2. Create a function that takes 3 integers and checks if a number is within a range. The first two integers represent a range. The last integer is the number you want to check. If the number to check is less than the range, echo "too low". If the number is within the range, echo "just right". If the number is greater than the range, echo "too high". [solution](http://codepad.org/qpgA1Pmq)
 
@@ -324,4 +325,9 @@ while($i < 10) {
 {% endhighlight %}
 
 Exercise
+
 1. Create a function that prints n n-times. The function takes one an argument, an integer. The integer represents the number of times to print itself. [solution](http://codepad.org/JtyVhrue)
+
+Extra
+
+2. Print all the numbers from 1 through 100 that are odd. (modulus) 
