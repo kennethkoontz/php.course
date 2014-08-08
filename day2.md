@@ -159,6 +159,7 @@ var_dump($greg_langs === $joe_langs); // True if both have the same values and o
 {% endhighlight %}
 
 Exercises
+
 1. Create a function that adds two integers and returns the result. [solution](http://codepad.org/XUxAgx7j)
 2. Create a function that compares two arrays for identity and returns the result. [solution](http://codepad.org/nYZ74DVW)
 3. Create a function that returns the union between two arrays. [solution](http://codepad.org/hsK0ndRp)
