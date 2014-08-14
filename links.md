@@ -12,3 +12,4 @@ title: Resources
 [Code Academy](http://www.codecademy.com/en/tracks/php)  
 [PHP.net](http://php.net/manual/en/tutorial.php)  
 [Laravel Homestead Setup](http://laravel.com/docs/homestead)
+[Treehouse](http://teamtreehouse.com/library/topic:php)
