@@ -125,4 +125,5 @@ echo "I've exitted foo";
 {% endhighlight %}
 
 ####Exercises
-1. [Laravel QuickStart](http://laravel.com/docs/quick#routing)  
+1. Define a class of your choosing and describe it with properties and methods. 
+2. [Laravel QuickStart](http://laravel.com/docs/quick#routing)  
