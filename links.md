@@ -7,6 +7,7 @@ title: Resources
 [Sublime text editor](http://www.sublimetext.com/) - popular lightweight code editor  
 [VirtualBox](https://www.virtualbox.org/wiki/Downloads)  
 [Vagrant](http://www.vagrantup.com/downloads.html)  
+[SourceTree](http://www.sourcetreeapp.com/) - Client for Git & Mercurial for Windows or Mac 
 
 ### Tutorials
 [Code Academy](http://www.codecademy.com/en/tracks/php)  
